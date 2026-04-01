@@ -22,8 +22,10 @@ Building a dashboard
 
 IBM Cognos Analytics was used to build a dashboard that contained all relevant visuals that seek to answer the following: 
 
-Which programming languages are most in demand today? 
+Which programming languages are most in demand today?
+
 What are the most in-demand database skills? 
+
 Which IDEs are the most popular?
 
 Presentation of findings
