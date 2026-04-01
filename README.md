@@ -8,20 +8,24 @@ My first task was to gather data on the most sought-after programming skills fro
 
 Data wrangling
 
-Data wrangling techniques were applied to prepare the acquired data for analysis.
+Data wrangling techniques like removing duplicates and finding and replacing missing values were applied to prepare the acquired data for analysis.
 
 Exploratory data analysis
 
-Once the data had been cleaned and prepared, I applied statistical methods to analyze the data, identifying key trends and insights.
+Once the data had been cleaned and prepared, statistical methods were applied to analyze the data, identifying key trends and insights.
 
-Week 4 data visualisation
+Data vizualisation
 
-Involves creating charts and graphs to visualize the data
+Involved creating charts and graphs to visualize the trends and insights.
 
-Week 5 building a dashboard
+Building a dashboard
 
-I'll use IBM Cognos Analytics to build a dashboard that will compile all of the data and nd spot trends and insights that might include the following: Which programming languages are most in demand today? What are the most in-demand database skills? Which IDEs are the most popular?
+IBM Cognos Analytics was used to build a dashboard that contained all relevant visuals that seek to answer the following: 
 
-Week 6 presentation of findings.
+Which programming languages are most in demand today? 
+What are the most in-demand database skills? 
+Which IDEs are the most popular?
 
-I use storytelling to share my findings in a presentation.
+Presentation of findings
+
+Key findings were shared in a Powerpoint presentation 
