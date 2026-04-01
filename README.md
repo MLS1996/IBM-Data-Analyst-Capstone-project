@@ -6,19 +6,19 @@ I assumed the role of a Data Analyst for a large international IT and business c
 
 My first task was to gather data on the most sought-after programming skills from various sources, including job advertisements, training websites, and polls, among other sources.This was achieved by scraping internet websites and accessing APIs.
 
-Data wrangling
+# Data wrangling
 
 Data wrangling techniques like removing duplicates and finding and replacing missing values were applied to prepare the acquired data for analysis.
 
-Exploratory data analysis
+# Exploratory data analysis
 
 Once the data had been cleaned and prepared, statistical methods were applied to analyze the data, identifying key trends and insights.
 
-Data vizualisation
+# Data vizualisation
 
 Involved creating charts and graphs to visualize the trends and insights.
 
-Building a dashboard
+# Building a dashboard
 
 IBM Cognos Analytics was used to build a dashboard that contained all relevant visuals that seek to answer the following: 
 
@@ -28,6 +28,6 @@ What are the most in-demand database skills?
 
 Which IDEs are the most popular?
 
-Presentation of findings
+# Presentation of findings
 
 Key findings were shared in a Powerpoint presentation
