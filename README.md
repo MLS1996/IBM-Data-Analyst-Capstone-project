@@ -30,4 +30,4 @@ Which IDEs are the most popular?
 
 # Presentation of findings
 
-Key findings were shared in a Powerpoint presentation
+Key findings were shared in a Powerpoint presentation.
